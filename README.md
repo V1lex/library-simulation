@@ -52,8 +52,8 @@ python -m src.main
 
 ### Тесты
 ```bash
-.venv/bin/pytest
-.venv/bin/pytest --cov=src
+pytest
+pytest --cov=src
 ```
 
 ### Структура
